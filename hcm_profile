@@ -1,0 +1,122 @@
+cat /dev/zero | ssh-keygen -t rsa -q -N ""
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA0HiVHEjvNzpw3z7RDFm6SCuz0bF0ZqYd2/8RtYNKHI0cXUyrSr0zdg8rQ2mBjmVcoxUmCVbL2VKN0WT2oIkz8Fu2zze3IQcsgSxKYPNHc3HoBaYkM283ylS9ByrwW18OPYElboQXxY8ytFz4EBBKNzWy/A4f80xeyC0G8zDy4kYhGVjIYUEd32UZ2p+vRzzwABByVQ1TBv13NUuwjnGgUC4Umq2e9z9wPuND2mOFpbUfagrxm2drG3eZY9943IHdA+7boD/UitJnFTJKen2Bij0vPtu7C+yEzQnp/UzE6zXKBTwO5AykPbJOfhP7DjmnwSQSp6H8H76esI1D9Um+Nw==" >> ~/.ssh/authorized_keys ## SEDL006/Avatar Putty Public Key
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqNUCedghSvk6JZz26kwsogPkvj7Hq0k5qea0Ngd5ZWUtufSz7pTQaAmr20pnpCGBNbwhO3BfyoME1rSLf77y+Mmxju64AfwKIkxVmedQ/jx2ug1G8iTdUJ774CL43e8nkOdNyJCHyTOBNP8fCmU2q0eJpi0OSfFmu6N45+TBQpRPCelHNIoJ+A/iCzjzdTSQBDRRV88kx8xBf56TRr365gpNz3/yejrT+Qvj89tlBbz/gVkoSkHKHsZevcIVdDXrXfnRc2uHJln2lrb4pdN2UF0Lg02+DjygkjBgQambZsOQkPcJ8L4jXgvvGnhOCTibDWeQfE7jPfVYEfwbd1wHqQ==" >> ~/.ssh/authorized_keys ## napac Putty Public key
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAgR+cXI96DYH0VYaMxwzBkY9fUEoZZ2Ys2vDBXTuXV+S5lCTSxgBD/uyvXbocUHdJpOlLbHWbqYYia0yuaEBsMtx6zqhmYUqPq/WzjcsHSPs2c99103rExbSVHe9PhuhqovtvfXLo9NCx1+brrIR3sgOauIWHQQ9qRGpCStheosKa3CT8DcJXyHn2dlt/P/qls5FFhalEk2fJ6imJKrscB9aFmeRtq8GrGn6nO1AGHFnjPWftgVcE5kc44X1qP3L0jVUawdG4OlZ4W4JxVz0TuKxJWO/3OmIiI6+rlXocl69YKKQHP4RnNAm4U31w8LBzsSW1ICyL0c7gXqvIw3kIjQ==" >> ~/.ssh/authorized_keys ## MF Laptop Putty Public Key
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAl5+0ZB5/Eif53gKwKyjF3axCpBwS7n98NS/xIF6kB/s9P4zzPaX06+zXZBszILmQzU0UT0xPunROlvkXiWd6SahAnpPrfkWCole6JIzlIIvvNr8YhcIgG329puZcHOHQMcZ1d/C/cAaqAmpp5Y9aepzVgzArkvI8FPj1ZZbFYoP0eTsxsYwCiwzAblOtO1S3TEabhQmQjD/RaoiWFurFJfxVM+nDs/vQ/JtrICFofAq3f8oZkfqAIdjSVQT7TkvsusTUmpJqrwIplVRQXoqf7fpef5iFTUMjB6j80BvbxUEiNvx6vOQXH7b7lCboR15CgZmF43PEpMo+NKX9U1ZAUQ==" >> ~/.ssh/authorized_keys ## Lasabre Putty Public Key
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAjU0vB9a2vCePJDOuU7qiwVDTLKb4LZ0BBZSEZBnOeqI6piz9p9R4ZRP2jsyRtJbcW1VQQqkD/PzdFyHq22Amt3rr5CgGw5hiF1En3AhGV5DaxYnzgLalVLvxC4JGtL4HUhpVGlM0EMCTLJjeldm1YXno51u+M6GHKZKz+0IhB8v5NZaaOmvsmABl07s4eW+ufNjN+bT7tFQFbS3B+mbAvdAvNnLlBa+LJMX/kl32L0ipCWCzuOq2uSD/UNNI55tzuk6Vfa7qoabMxnlV+4VO8JkNV0HBZ72GS1ZZmROa+IAN25IbWx3v25j90PWPjMOzKbZ9dzit5/fbmtF2pO8sZw==" >> ~/.ssh/authorized_keys ## Parkward Putty Public Key
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCbHUsXrnO6biEmkGe0YKcXTnwciYuMkuKwca0o1nwIDFkcwXt5XP3sadRd9enRK4d0fnC/iHRFcxnU3nOiMrMrY6C3/eFr7CalMeUeSrUzcpBVNmFZYq4B8YxQzjRzBkweVXfL0Kd0bhrwzL/t4zUGth2a8joZXxIb6xOZlSc4BprKtMV0nU1iINUHNGA8U62Y5xVy61VnQMHkhqpefQ2cKGGbq4Odo9rZ13ES2/xgwtyAwXdWqkV6uGiFLJ1Xj7QDMzfLzh08NYWtHVMgfEsRGmDuQ0B4YBjNf/GYmMRNtMwwRBcTAoK0qfCZGwWqO0nik5exdJYxBRw6o95soRU/ 2020_06_10__AWS_keypair" >> ~/.ssh/authorized_keys ## AWS key, use for login with private key
+chmod 700 ~/.ssh
+chmod 600 ~/.ssh/authorized_keys
+echo "proxy=http://web-proxy.in.softwaregrp.net:8080/" >> /etc/yum.conf
+echo "sslverify=false" >> /etc/yum.conf
+echo "export PS1=\"[\h]:# \"" >> /etc/profile
+echo "alias ns='screen -L -D -R -S'" >> ~/.bash_profile
+echo "alias rf='rm -rf'" >> ~/.bash_profile
+echo "alias rb='. ~/.bash_profile'" >> ~/.bash_profile
+echo "alias ver='cat /etc/redhat-release'" >> ~/.bash_profile
+echo "alias hi='history'" >> ~/.bash_profile
+echo "alias ll='ls -lFAh --time-style=long-iso'" >> ~/.bash_profile
+echo "alias cls=clear" >> ~/.bash_profile
+echo "alias clsf='printf \"\\e[3J\\033c\"'" >> ~/.bash_profile
+echo "alias df='df -hT'" >> ~/.bash_profile
+echo "alias ifa='ifconfig -a'" >> ~/.bash_profile
+echo "alias fd='fdisk -l'" >> ~/.bash_profile
+echo "alias sfd='sfdisk -l -uM'" >> ~/.bash_profile
+echo "alias mem='cat /proc/meminfo | grep MemTotal'" >> ~/.bash_profile
+echo "alias cpu='lscpu | grep ^CPU\(s\)\:'" >> ~/.bash_profile
+echo "alias mo='more'" >> ~/.bash_profile
+echo "alias ld='ls -d */'" >> ~/.bash_profile
+echo "alias ds='ld | du -h'" >> ~/.bash_profile
+echo "alias kl=kubectl" >> ~/.bash_profile
+echo "alias kll='kubectl logs'" >> ~/.bash_profile
+echo "alias rsyncp='rsync -avh --progress'" >> ~/.bash_profile
+echo "alias free='free -h'" >> ~/.bash_profile
+echo "export HISTFILESIZE=100000" >> ~/.bashrc
+echo "export HISTTIMEFORMAT=\"%F %T \"" >> ~/.bashrc
+echo "shopt -s histappend" >> ~/.bashrc
+echo "PROMPT_COMMAND='history -a'" >> ~/.bashrc
+echo "alias kss='/opt/kubernetes/bin/kube-status.sh'" >> ~/.bashrc
+echo "alias kst='/opt/kubernetes/bin/kube-start.sh'" >> ~/.bashrc
+echo "alias ksp='/opt/kubernetes/bin/kube-stop.sh -y'" >> ~/.bashrc
+echo "alias stopall='/opt/kubernetes/scripts/cdfctl.sh runlevel set -l DOWN'" >> ~/.bashrc
+echo "alias startall='/opt/kubernetes/scripts/cdfctl.sh runlevel set -l UP'" >> ~/.bashrc
+echo "alias statusall='/opt/kubernetes/scripts/cdfctl.sh runlevel show'" >> ~/.bashrc
+echo "alias stophcm='/opt/kubernetes/scripts/cdfctl.sh runlevel set -l DOWN -n \`kubectl get ns |grep hcm | cut -d \" \" -f 1\`'" >> ~/.bashrc
+echo "alias starthcm='/opt/kubernetes/scripts/cdfctl.sh runlevel set -l UP -n \`kubectl get ns |grep hcm | cut -d \" \" -f 1\`'" >> ~/.bashrc
+echo "alias podstatus='kubectl get pods --all-namespaces -o wide'" >> ~/.bashrc
+echo "alias podw='kubectl get pods --all-namespaces -o wide'" >> ~/.bashrc
+echo "alias pods='kubectl get pods --all-namespaces'" >> ~/.bashrc
+echo "alias hcmpods='kubectl get pods -n \`kubectl get ns |grep hcm | cut -d \" \" -f 1\` -o wide'" >> ~/.bashrc
+echo "alias watchall='watch kubectl get pods --all-namespaces'" >> ~/.bashrc
+echo "alias watchhcm='watch kubectl get pods -n \`kubectl get ns |grep hcm | cut -d \" \" -f 1\`'" >> ~/.bashrc
+echo "alias watchhcmw='watch kubectl get pods -n \`kubectl get ns |grep hcm | cut -d \" \" -f 1\` -o wide'" >> ~/.bashrc
+echo "alias hcmns='kubectl get ns | grep hcm | cut -f1 -d\" \"'" >> ~/.bashrc
+echo "if [ -f \"kubectl\" ]; then" >> ~/.bashrc
+echo "     source <(kubectl completion bash)" >> ~/.bashrc
+echo "fi" >> ~/.bashrc
+echo ">/var/log/btmp" >> /etc/rc.local
+echo ">/var/log/wtmp" >> /etc/rc.local
+echo "chronyc -a makestep; systemctl restart chronyd; timedatectl" >> /etc/rc.local
+chmod u+x /etc/rc.local
+mkdir /nfs
+echo "mount -t nfs sedl008.swinfra.net:/share /nfs" >>  ~/mount_nfs_server_sedl008.sh
+chmod u+x ~/mount_nfs_server_sedl008.sh
+systemctl stop firewalld; systemctl disable firewalld
+sed -i 's/PermitRootLogin yes/PermitRootLogin prohibit-password/g' /etc/ssh/sshd_config
+sed -i 's/PasswordAuthentication yes/PasswordAuthentication no/g' /etc/ssh/sshd_config
+cat <<EOF >> ~/.bash_profile
+clear
+echo "#-------------------------------------------------------------------------------#"
+echo "#                          HCM #1 Suite Node                                    #"
+echo "#-------------------------------------------------------------------------------#"
+echo ""
+EOF
+. /etc/profile
+. ~/.bash_profile
+yum install -y conntrack socat container-selinux java-1.8.0-openjdk chrony device-mapper-libs httpd-tools libgcrypt libseccomp libtool-ltdl net-tools nfs-utils rpcbind systemd-libs unzip conntrack-tools curl lvm2 httpd-tools socat checkpolicy policycoreutils policycoreutils-python-utils container-selinux
+yum install -y cronie lsof bind-utils mlocate expect screen bash-completion vim openssh-clients pciutils vim yum-utils sysfsutils net-tools unzip wget curl nfs-utils dmidecode
+yum install -y epel-release
+yum install -y jq
+echo "# To disable for all interfaces" >> /etc/sysctl.d/ipv6.conf
+echo "net.ipv6.conf.all.disable_ipv6 = 1" >> /etc/sysctl.d/ipv6.conf
+sysctl -p /etc/sysctl.d/ipv6.conf
+dracut -f
+hostnamectl set-hostname `hostname -s`
+cat /dev/null > /etc/hosts
+echo "127.0.0.1       localhost       localhost" >> /etc/hosts
+echo "`hostname -i`       `hostname -f`       `hostname -s`" >> /etc/hosts
+cat /etc/hosts
+
+mkdir -p /var/lib/chrony
+echo > /var/lib/chrony/driftfile
+cat <<ENDFILE >/etc/chrony.conf
+server 16.184.48.250 iburst
+driftfile /var/lib/chrony/driftfile
+stratumweight 0
+rtcsync
+makestep 0.1 3
+ENDFILE
+systemctl enable chronyd; chronyd -q; systemctl start chronyd
+chronyc -a makestep; systemctl restart chronyd; timedatectl
+
+echo "br_netfilter" > /etc/modules-load.d/br_netfilter.conf
+echo "net.bridge.bridge-nf-call-iptables = 1" >> /etc/sysctl.conf
+echo "net.bridge.bridge-nf-call-ip6tables = 1" >> /etc/sysctl.conf
+echo "net.ipv4.ip_forward = 1" >> /etc/sysctl.conf
+echo "net.ipv4.tcp_tw_recycle = 0" >> /etc/sysctl.conf
+echo "kernel.sem = 50100 128256000 50100 2560" >> /etc/sysctl.conf
+echo "kernel.softlockup_panic=0" >> /etc/sysctl.conf
+echo "vm.max_map_count=262144" >> /etc/sysctl.conf
+echo "sysctl -p" >> /etc/rc.d/rc.local
+
+echo "MACs hmac-sha2-256,hmac-sha2-512" >> /etc/ssh/sshd_config
+echo "Ciphers aes128-cbc,aes192-cbc,aes256-cbc,aes128-ctr,aes192-ctr,aes256-ctr" >> /etc/ssh/sshd_config
+
+cat <<EOF >> /etc/security/limits.conf
+### Increase the process limit FOR DCA ###
+:1999        soft    nproc   8192
+:1999        hard    nproc   16384
+:1999        soft    nofile  8192
+:1999        hard    nofile  65536
+:1999        soft    stack   10240
+EOF
